@@ -6,7 +6,7 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 
 ## Live Demo
 
-🔗 **https://verdant-jelly-54689b.netlify.app**
+🔗 **https://stellar-poll.netlify.app/**
 
 ## Features
 
