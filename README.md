@@ -6,7 +6,7 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 
 ## Live Demo
 
-🔗 **https://stellar-poll.netlify.app/**
+🔗 **https://stellar-wallet-oak.netlify.app/**
 
 ## Features
 
