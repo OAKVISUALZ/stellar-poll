@@ -4,6 +4,10 @@ A real-time voting dApp built on Stellar Soroban smart contracts that allows use
 
 Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomastery.com/) - Level 2 Yellow Belt Challenge.
 
+## Live Demo
+
+🔗 **https://verdant-jelly-54689b.netlify.app**
+
 ## Features
 
 - **Multi-Wallet Integration** - Connect via Freighter and other Stellar wallets using Stellar Wallets Kit
