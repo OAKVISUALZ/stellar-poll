@@ -21,7 +21,6 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 
 
 ### Wallet Options Available
-![Wallet Connection]
 <img width="1366" height="597" alt="image" src="https://github.com/user-attachments/assets/ee133b8a-f2e0-4b76-aab5-ace44c5791e0" />
 <img width="1366" height="581" alt="image" src="https://github.com/user-attachments/assets/beb7af1b-c403-456a-a338-4dd0792bab43" />
 <img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/c012013a-e92c-4547-9b11-a9d6de58257f" />
@@ -34,7 +33,7 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 
 
 ### Poll Creation
-![Poll Creator](screenshots/poll-creator.png)
+
 
 ### Voting & Results
 <img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/8244ec03-56eb-4e2a-93a7-371cab701eaf" />
