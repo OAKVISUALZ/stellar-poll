@@ -14,10 +14,14 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 - **Error Handling** - Handles wallet not found, transaction rejected, and insufficient balance errors
 - **Responsive Design** - Clean dark-themed UI that works on desktop and mobile
 
-## Screenshots
+
 
 ### Wallet Options Available
 ![Wallet Connection](screenshots/wallet-connected.png)
+<img width="1366" height="597" alt="image" src="https://github.com/user-attachments/assets/ee133b8a-f2e0-4b76-aab5-ace44c5791e0" />
+<img width="1366" height="581" alt="image" src="https://github.com/user-attachments/assets/beb7af1b-c403-456a-a338-4dd0792bab43" />
+
+
 
 ### Poll Creation
 ![Poll Creator](screenshots/poll-creator.png)
