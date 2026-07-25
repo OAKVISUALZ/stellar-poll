@@ -97,7 +97,7 @@ The project includes a Soroban smart contract (`contract/src/lib.rs`) deployed t
    ```
 
 5. **Open in browser**
-   Navigate to `http://localhost:5173`
+   Navigate to `https://stellar-poll.netlify.app/`
 
 6. **Get testnet XLM**
    Use the [Stellar Testnet Faucet](https://friendbot.stellar.org/) to fund your wallet:
