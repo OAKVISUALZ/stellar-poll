@@ -8,6 +8,8 @@ Built as part of the [Stellar Journey to Mastery](https://stellarjourneytomaster
 
 🔗 **https://stellar-wallet-oak.netlify.app/**
 
+Transaction: https://stellar.expert/explorer/testnet/tx/d924cdbbeaa534a9c4c5a8270a29761c37bef3571790b67f3ded4ce5978969e5
+
 ## Features
 
 - **Multi-Wallet Integration** - Connect via Freighter and other Stellar wallets using Stellar Wallets Kit
